@@ -1,0 +1,26 @@
+.block-1 {
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-color: pink;
+}
+.block-2 {
+    float: right;
+    width: 30%;
+    height: 150px;
+    background-color: antiquewhite;
+}
+.block-3 {
+    height: 250px;
+    background-color: darkcyan;
+}
+.block-4 {
+    display: inline;
+    width: 450px;
+    height: 450px;
+    background-color: thistle;
+}
+.block-5 {
+    height: 150px;
+    background-color: violet;
+}
